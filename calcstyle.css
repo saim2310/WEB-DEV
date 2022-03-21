@@ -1,0 +1,18 @@
+input
+{
+    width: 150px;
+    height: 100px;
+    font-size: 75px;
+    border-radius: 10px;
+    background-color:#00544b;
+    color: #fff;
+    border-style:outset;
+}
+fieldset
+{
+display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #243b55;
+    float:none;
+}
